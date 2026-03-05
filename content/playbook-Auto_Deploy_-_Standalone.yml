@@ -341,7 +341,7 @@ tasks:
           - args:
               prefix:
                 value:
-                  simple: https://github.com/spearmin10/xsoar-utils/blob/main/auto-deploy/packages/
+                  simple: https://github.com/spearmin10/xsoar-packlift/blob/main/packages/
               suffix:
                 value:
                   simple: .zip?raw=true
